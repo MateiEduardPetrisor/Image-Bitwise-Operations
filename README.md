@@ -10,7 +10,7 @@ We have three bitmaps:
 ## ThirdBitmap.bmp
 ![ThirdBitmap.bmp](https://raw.githubusercontent.com/MateiEduardPetrisor/Image-Bitwise-Operations/master/Image%20Bitwise%20Operations/ThirdBitmap.bmp "ThirdBitmap.bmp")
 # The program flow is the following one:
-## First step do the EXCLUSIVE OR (XOR) between the FirstBitmap.bmp and SecondBitmap.bmp and the result is:
+## First step do the EXCLUSIVE OR (^) between the FirstBitmap.bmp and SecondBitmap.bmp and the result is:
 ### 1.XorBitmaps.bmp 
 ![1.XorBitmaps.bmp](https://raw.githubusercontent.com/MateiEduardPetrisor/Image-Bitwise-Operations/master/Image%20Bitwise%20Operations/1.XorBitmaps.bmp "1.XorBitmaps.bmp")
 ## Second step do the AND (&) between the 1.XorBitmaps.bmp and ThirdBitmap.bmp and the result is:
